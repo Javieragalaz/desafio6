@@ -1,0 +1,10 @@
+#Hero-Section {
+    background-image: url("../imgs/AdobeStock_409318328.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+body{
+    background-color: rgb(246, 232, 252);
+}
